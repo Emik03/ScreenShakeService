@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <LangVersion>preview</LangVersion>
+        <CopyrightSince>2024</CopyrightSince>
+        <IsHollowKnight>true</IsHollowKnight>
+        <TargetFramework>net40</TargetFramework>
+    </PropertyGroup>
+</Project>
